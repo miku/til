@@ -1,4 +1,4 @@
-# next generation internet
+# Next Generation Internet (NGI)
 
 > 2025-04-29
 

@@ -8,5 +8,5 @@
 
 ## open source initiatives
 
-* [next generation internet (NGI)](initiatives/ngi.md) -- 2025-04-29
-* [sovereign tech agency](initiatives/sovereign-tech-agency.md) -- 2025-05-14
+* [Next Generation Internet (NGI)](initiatives/ngi.md) -- 2025-04-29
+* [Sovereign Tech Agency](initiatives/sovereign-tech-agency.md) -- 2025-05-14
