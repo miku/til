@@ -15,3 +15,7 @@
 
 * [Blend SQL and Go with sqlite RegisterFunc](sqlite/go-register-func.md) -- 2025-04-29
 
+
+## llm
+
+* [Character-Card Spec v2](llm/character-card-spec.md) -- 2025-05-26
