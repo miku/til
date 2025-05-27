@@ -19,3 +19,4 @@
 ## llm
 
 * [Character-Card Spec v2](llm/character-card-spec.md) -- 2025-05-26
+* [LLM desktop apps 2025](llm-desktop-apps-2025.md) -- 2025-05-26
